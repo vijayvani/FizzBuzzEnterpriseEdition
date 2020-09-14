@@ -16,7 +16,8 @@
     <sonar.projectKey>vijayvani_FizzBuzzEnterpriseEdition</sonar.projectKey>
     <sonar.organization>vijayvani</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  </properties>
+ 
+ </properties>
 
   <scm>
     <url>https://vijayvani@github.com/vijayvani/FizzBuzzEnterpriseEdition.git</url>
