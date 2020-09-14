@@ -12,7 +12,17 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  
+    <sonar.projectKey>vijayvani_FizzBuzzEnterpriseEdition</sonar.projectKey>
+    <sonar.organization>vijayvani</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
+
+  <scm>
+    <url>https://vijayvani@github.com/vijayvani/FizzBuzzEnterpriseEdition.git</url>
+    <connection>scm:git:https://vijayvani@github.com/vijayvani/FizzBuzzEnterpriseEdition.git</connection>
+  </scm>
+
 
   <dependencies>
     <dependency>
